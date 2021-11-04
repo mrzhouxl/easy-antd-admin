@@ -1,0 +1,41 @@
+#nprogress .bar {
+    background: #1890ff !important;
+  }
+
+.h20{
+  height: 20px !important;
+}
+
+.h40{
+  height: 40px !important;
+}
+.pt-8{
+  padding-top: 8px !important;
+}
+
+.mt-8{
+  padding-top: 8px !important;
+}
+.ant-pagination-item-active a{
+  color: #00B375 !important;
+}
+.ant-pagination-item-active {
+  font-weight: 500 !important;
+  background: #fff !important;
+  border-color: #00B375 !important;
+}
+/* .ant-input:hover {
+  border-color: #00B375 !important;
+  border-right-width: 1px !important;
+}
+
+
+.ant-select:not(.ant-select-disabled):hover .ant-select-selector {
+  border-color: #00B375 !important;
+  border-right-width: 1px !important;
+}
+
+.ant-input-affix-wrapper:hover {
+  border-color: #00B375 !important;
+  border-right-width: 1px !important;
+} */

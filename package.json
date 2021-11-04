@@ -1,0 +1,31 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --port 5678",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.0.1",
+    "@types/nprogress": "^0.2.0",
+    "ant-design-vue": "^2.1.6",
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.5",
+    "moment": "^2.29.1",
+    "nprogress": "^0.2.0",
+    "vue": "^3.2.2",
+    "vue-router": "^4.0.8",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.0",
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "less": "^4.1.1",
+    "less-loader": "^10.0.1",
+    "typescript": "^4.1.3",
+    "vite": "^2.4.1",
+    "vite-plugin-style-import": "^1.0.1",
+    "vue-tsc": "^0.0.24"
+  }
+}
